@@ -1,0 +1,16 @@
+column,missing_values,data_type
+FID,0,int64
+district,0,str
+community,0,str
+facility,0,str
+fac_name,0,str
+type,0,str
+ownership,0,str
+functional,0,str
+lat,55,float64
+long,55,float64
+source,0,str
+source_geo,56,str
+dhis2_id,0,str
+geo_date,0,int64
+comments,1523,str

@@ -1,0 +1,6 @@
+Metric,Original,Cleaned
+Total records,1616,1616
+Duplicate rows,0,0
+Zero-coordinate records,55,0
+Districts represented,16,16
+Missing/placeholder DHIS2 IDs,120,120

@@ -1,0 +1,134 @@
+FID,district,community,facility,fac_name,type,ownership,functional,lat,long,source,source_geo,dhis2_id,geo_date,comments
+59,Bo,Komende Junction,Jan Christian Helvings Clinic,Jan Christian Helvings Clinic,CHP,Faith Based,Functional,7.928554,-11.534828,DPPI,GPS,No Data,2021,
+63,Bo,Mendewa  Layout,Mendewa Layout  CHC,Mendewa Layout,CHC,Private,Functional,7.932193,-11.745912,DPPI,GPS,No Data,2021,
+68,Bo,Kendeyama,Mamasa Life Saving Hospital,Mamasa Life Saving,HOSPITAL,Private,Functional,7.942732,-11.710874,DPPI,GPS,No Data,2021,
+83,Bo,176 Bo -Tiama Highway,Walk In Medical Associate Clinic,Walk In Medical Associate,CLINIC,Private,Functional,7.952076,-11.749749,DPPI,GPS,No Data,2021,
+91,Bo,Coronation Field,Serra Leone Red Cross Society  CHC,Serra Leone Red Cross Society,CHC,Faith Based,Functional,7.958705,-11.741862,DPPI,GPS,No Data,2021,
+93,Bo,Bo Govt Secondary School Compound,Bo School Sick Bay,Bo School Sick Bay,CLINIC,Government,Functional,7.962361,-11.743268,DPPI,GPS,No Data,2021,
+100,Bo,No.1 Mission Road,Spllenz Clinic,Spllenz,CLINIC,Private,Functional,7.964535,-11.741767,DPPI,GPS,No Data,2021,
+118,Bo,Yemoh Town,Gender CHP,Gender,CHP,Private,Functional,7.989605,-11.743525,DPPI,GPS,No Data,2021,
+160,Bo,Joe Town,Breakthrough CHP,Breakthrough CHP,MCHP,Private,Functional,7.946515086,-11.742036917,DPPI,GPS,No Data,2023,
+161,Bo,New England,Veronica MCHP,Veronica,MCHP,Private,Functional,7.9312921,-11.7173683,DPPI,GPS,No Data,2023,Requires Validation/Ground truthing
+162,Bo,Mano,Mano MCHP,Mano,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+163,Bo,Kendeyella- Ahmadiya community,Kendeyella MCHP,Kendeyella,MCHP,Private,Functional,7.9314286,-11.73199,DPPI,GPS,No Data,2023,
+176,Western Area Urban,Rokupa,Rokupa Government Hospital,Rokupa Government,HOSPITAL,Government,Functional,8.460228,-13.1726,DPPI,GPS,fLbXQWxFj9p,2016,
+178,Western Area Urban,Fourah Bay Road,Ola During Children'S Hospital,Ola During Children'S,HOSPITAL,Government,Functional,8.490099,-13.21847,DPPI,GPS,KdVHHgrRd1s,2016,
+189,Western Area Urban,Lumley Government,Lumley Government Hospital,Lumley Government,HOSPITAL,Government,Functional,8.451305,-13.26254,DPPI,GPS,weB1h7rtWwI,2016,
+215,Western Area Urban,Kissy,Lowell And Ruth Gess Umc Eye Hospital,Lowell And Ruth Gess Umc Eye,HOSPITAL,Private,Functional,8.475787,-13.194743,DPPI,GPS,No Data,2021,
+228,Western Area Urban,Kingharman Road,Aspen Medical Clinic,Aspen Medical,CLINIC,Private,Functional,8.472141,-13.246324,DPPI,GPS,No Data,2021,
+231,Western Area Urban,Kingharman Road,Kingharman Road Hospital,Kingharman Road,HOSPITAL,Government,Functional,8.473391,-13.24827,DPPI,GPS,E2F4cmLFF2l,2016,
+238,Western Area Urban,Kingtom Police,Kingtom Police Hospital,Kingtom Police,HOSPITAL,Government,Functional,8.491753,-13.245612,DPPI,GPS,ARLNJZRwkV3,2021,
+239,Western Area Urban,Kingtom,Day Krim Clinic,Day Krim,CLINIC,Private,Functional,8.483561,-13.243053,DPPI,GPS,No Data,2021,
+244,Western Area Urban,No. 9 Community,No. 9 Community MCHP,No. 9 Community,MCHP,Private,Functional,8.472947,-13.2657,DPPI,GPS,No Data,2016,
+259,Western Area Urban,Town,Christ Healing Hospital And Community College Clinic,Christ Healing Hospital And Community College,CLINIC,Private,Functional,8.468999,-13.266089,DPPI,GPS,No Data,2021,
+283,Western Area Urban,Circular Road,Don Bosco Fambul Clinic,Don Bosco Fambul,CLINIC,Private,Functional,8.482371,-13.234978,DPPI,GPS,No Data,2021,
+293,Western Area Urban,Ginger Hall,China Friendship Clinic,China Friendship,CLINIC,Private,Functional,8.489045,-13.210253,DPPI,GPS,No Data,2021,Requires Validation/Ground truthing
+296,Western Area Urban,Fourah Bay Road,Ola During Under Fives Clinic,Ola During Under Fives,CLINIC,Government,Functional,8.490099,-13.21847,DPPI,GPS,KdVHHgrRd1s,2016,
+297,Western Area Urban,Rokupa,Rokupa Under Fives Clinic,Rokupa Under Fives,CLINIC,Government,Functional,8.460228,-13.1726,DPPI,GPS,fLbXQWxFj9p,2016,
+298,Western Area Urban,Rokupa,Rokupa Wharf CHP,Rokupa Wharf,CHP,Government,Functional,8.460228,-13.1726,DPPI,GPS,fLbXQWxFj9p,2016,
+299,Western Area Urban,Kingtom Police,Kingtom Police Under Fives Clinic,Kingtom Police Under Fives,CLINIC,Government,Functional,8.491753,-13.245612,DPPI,GPS,ARLNJZRwkV3,2021,
+300,Western Area Urban,Kingharman Road,Kingharman Road Under Fives Clinic,Kingharman Road Under Fives,CLINIC,Government,Functional,8.473391,-13.24827,DPPI,GPS,E2F4cmLFF2l,2016,
+302,Western Area Urban,Lumley Government,Lumley Under Fives Clinic,Lumley Under Fives,CLINIC,Government,Functional,8.451305,-13.26254,DPPI,GPS,weB1h7rtWwI,2016,
+348,Western Area Rural,Waterloo,Adventist Hospital,Adventist,HOSPITAL,Faith Based,Functional,8.335733,-13.073272,DPPI,GPS,No Data,2021,
+371,Western Area Rural,No Data,Waterloo Rural Community Hospital,Waterloo -WRCH,HOSPITAL,Government,Functional,,,DPPI,,No Data,0,no lat/long
+372,Western Area Rural,No Data,Marie Stopes (Koya Rural) Outreach Team,Marie Stopes (Koya ) Outreach,CLINIC,NGO,Functional,,,DPPI,,No Data,0,no lat/long
+373,Western Area Rural,No Data,Marie Stopes (Mountain Rural) Outreach Team,Marie Stopes (Mountain ) Outreach,CLINIC,NGO,Functional,,,DPPI,,No Data,0,no lat/long
+374,Western Area Rural,No Data,Marie Stopes (Waterloo Rural) Outreach Team,Marie Stopes (Waterloo ) Outreach,CLINIC,NGO,Functional,,,DPPI,,No Data,0,no lat/long
+375,Western Area Rural,No Data,Marie Stopes (York Rural) Outreach Team,Marie Stopes (York ) Outreach,CLINIC,NGO,Functional,,,DPPI,,No Data,0,no lat/long
+382,Tonkolili,Ninkikoro,Ninkikoro MCHP,Ninkikoro,MCHP,Government,Functional,8.991273,-11.639375,DPPI,GPS,kSlAzC2rmUu,2016,
+483,Tonkolili,Ropollon,Alim's MCHP,Alim's,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+484,Tonkolili,Mabankra,Mabankra MCHP,Mabankra,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+485,Tonkolili,Makelleh,Makelleh MCHP,Makelleh,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+486,Tonkolili,Gbolu Ferry,Gbolu Ferry MCHP,Gbolu Ferry,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+487,Tonkolili,Mile 91,Linda Muckson Medical Foundation,Linda Muckson Medical Foundation,CLINIC,Private,Functional,,,DPPI,,No Data,0,no lat/long
+585,Pujehun,Mende MSK,Mende  MSK MCHP,Mende  MSK,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+586,Pujehun,Helebu,Helebu MCHP,Helebu,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+587,Pujehun,Bandama,Bandama MCHP,Bandama,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+588,Pujehun,Kobonpi YKK,Kobonpi YKK MCHP,Kobonpi YKK,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+589,Pujehun,Messima YKK,Messima YKK MCHP,Messima YKK,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+590,Pujehun,Sama Sowende YKK,Sama Sowende YKK MCHP,Sama Sowende YKK,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+591,Pujehun,Jao Malen,Jao Malen  MCHP,Jao Malen,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+641,Port Loko,Lunsar,Baptist Eye Hospital,Baptist Eye,HOSPITAL,Private,Functional,8.69586,-12.528285,DPPI,GPS,No Data,2021,
+695,Port Loko,Hospital Road,Port Loko Government Hospital,Port Loko Government,HOSPITAL,Government,Functional,8.765925,-12.7847,DPPI,GPS,No Data,2016,
+703,Port Loko,Samuel Street Modia,Modia General Clinic,Modia General,CLINIC,Private,Functional,8.641509,-13.22412,DPPI,GPS,No Data,2021,
+708,Port Loko,Lungi Road,Arab Port Loko Clinic,Arab Port Loko,CLINIC,Private,Functional,8.77024,-12.790897,DPPI,GPS,No Data,2021,
+751,Moyamba,Mano,Laugh Out Loud CHP,Laught Out Loud,CHP,Private,Functional,8.028414,-12.094876,DPPI,GPS,No Data,2021,
+817,Moyamba,MoribaTown,St. Marys CHP,St. Marys,CHP,Faith Based,Non-Functional,,,DPPI,,No Data,0,no lat/long
+818,Moyamba,Levuma,Levuma Kaiyamba MCHP,Levuma Kaiyamba,MCHP,Government,Functional,8.1168567,-12.3719383,DPPI,GPS,No Data,2023,
+908,Kono,Bandama,Bandama MCHP,Bandama,MCHP,Government,Functional,8.393265,-10.875925,DPPI,GPS,No Data,2021,
+912,Kono,Koryadu,Koryadu CHP,Koryadu,CHP,Private,Functional,8.557069,-10.984909,DPPI,GPS,No Data,2021,
+921,Kono,Semendu,Semendu MCHP,Semendu,MCHP,Government,Functional,8.6999968,-10.6195592,DPPI,GPS,No Data,2023,no lat/long
+922,Kono,Kamindu,Kamindu MCHP,Kamindu,MCHP,Government,Functional,8.6907984,-10.6809762,DPPI,GPS,No Data,2023,no lat/long
+923,Kono,Mashingbi Road Koidu Town,Hussein Mackie Memorial Hospital,Hussein Mackie Memorial,HOSPITAL,Private,Functional,,,DPPI,,No Data,0,no lat/long
+924,Kono,Fensedu,Fensedu MCHP,Fensedu,MCHP,Government,Functional,8.8509169,-11.0958222,DPPI,GPS,No Data,2023,no lat/long
+925,Kono,Seidu,Seidu MCHP,Seidu,MCHP,Government,Functional,8.8907135,-11.0537767,DPPI,GPS,No Data,2023,no lat/long
+926,Kono,Yengema,Yengema Sandor CHP,Yengema Sandor,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+935,Koinadugu,Kabala Town,Kabala Government Hospital,Kabala Government,HOSPITAL,Government,Functional,9.587082,-11.547436,DPPI,GPS,No Data,2021,
+960,Koinadugu,Worombaia,Worombaia MCHP,Worombaia,MCHP,Government,Functional,8.979896,-11.40851,DPPI,GPS,No Data,2021,
+962,Koinadugu,Kambalia Town,Kambalia CHP,Kambalia,CHP,Government,Functional,9.825624,-11.843754,DPPI,Village Center,No Data,2021,
+963,Koinadugu,Kaokobodie,Kaokobodie/Kapakie MCHP,Kaokobodie/Kapakie,MCHP,Government,Non-Functional,9.711201,-11.821563,DPPI,Village Center,No Data,2021,
+964,Koinadugu,Waia,Waia MCHP,Waia,MCHP,Government,Non-Functional,9.132173,-11.690751,DPPI,GPS,No Data,2021,
+972,Koinadugu,Kakambia,Kakambia MCHP,Kakambia,MCHP,Government,Functional,9.87043,-11.879683,DPPI,Village Center,No Data,2021,
+973,Koinadugu,Tukolie,Tukolie CHP,Tukolie,CHP,Government,Non-Functional,8.879347,-11.490642,DPPI,Village Center,No Data,2021,
+975,Koinadugu,Kamathoi,Kamathoi MCHP,Kamathoi,MCHP,Government,Functional,9.539758358,-11.94821695,DPPI,GPS,No Data,2023,no lat/long
+977,Koinadugu,Nywulia,Nywula MCHP,Nywula,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+978,Koinadugu,Diang Kamaron,Diang Kamaron CHP,Diang Kamaron,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+979,Koinadugu,Kakarima,Kakarima MCHP,Kakarima,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+980,Koinadugu,Sisaywulia,Sisaywulia MCHP,Sisaywuliaia,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+981,Koinadugu,Madina Kamandie,Madina Kamandie MCHP,MCHP,MCHP,Government,Non-Functional,,,DPPI,,No Data,0,no lat/long
+982,Koinadugu,Kayakor,Kayakor MCHP,Kayakor,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+983,Koinadugu,Sarakor,Sarakor MCHP,Sarakor,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+986,Koinadugu,Bambukura,Bambukura MCHP,Bambukura,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+988,Koinadugu,Momoriemaia,Momoriemaia MCHP,Momoriemaia,MCHP,Government,Functional,9.615557,-11.416838,DPPI,Village Center,No Data,2021,
+990,Koinadugu,Yogomaia,Sengbeh Community MCHP,Sengbeh Community,MCHP,Government,Functional,9.588985,-11.55462,DPPI,GPS,No Data,2016,
+992,Koinadugu,Bendugu,Bendugu MCHP,Bendugu,MCHP,Government,Non-Functional,,,DPPI,,No Data,0,no lat/long
+1104,Kenema,Pelewahun,Pelewahun MCHP,Pelewahun,MCHP,Government,Functional,8.333673,-11.06203,DPPI,GPS,No Data,2016,
+1115,Kenema,Kpayama,Kpayama 2 MCHP,Kpayama 2,MCHP,Government,Functional,7.865898,-11.17955,DPPI,GPS,No Data,2016,
+1116,Kenema,Kpayama,Friend  For Lives Clinic,Friend  For Lives,CLINIC,Private,Functional,7.865477,-11.178081,DPPI,GPS,No Data,2021,
+1119,Kenema,Nyadeyama,Malian Friendship Hospital,Malian Friendship,HOSPITAL,Private,Non-Functional,7.868772,-11.199767,DPPI,GPS,No Data,2021,
+1122,Kenema,Combama Road,Under Five MCHP,Under Five,MCHP,Government,Functional,7.863437,-11.178624,DPPI,GPS,No Data,2021,
+1132,Kenema,Class Cuter,Sierra Leone Red Cross CHP,Sierra Leone Red Cross,CHP,Private,Functional,7.877044,-11.194087,DPPI,GPS,No Data,2016,
+1136,Kenema,Baoma-New HF,Boama CHP,Baoma,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1137,Kenema,Marleh MCHP,Marleh MCHP,Marleh,MCHP,Government,Non-Functional,,,DPPI,,No Data,0,no lat/long
+1199,Karene,Royanka Lol,Royanka Lol CHP,Royanka Lol,CHP,Government,Functional,9.195362586,-12.284994724,DPPI,GPS,No Data,2023,
+1200,Karene,Komoya,Komoya CHP,Komoya,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1272,Kambia,Madina,Holy Spirit Mobile Clinic,Holy Spirit Mobile,CLINIC,Private,Functional,,,DPPI,,No Data,0,no lat/long
+1273,Kambia,No Data,Holy Spirit Mobile Clinic,Holy Spirit Mobile,CLINIC,Faith Based,Functional,,,DPPI,,No Data,0,no lat/long
+1274,Kambia,Masaralie,Masaralie MCHP,Masaralie,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1275,Kambia,Kangbor,Kanbgor MCHP,Kangbor,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1276,Kambia,Sierra Leone Police Force Clinic,Sierra Leone Police Force Clinic,Sierra Leone Police Force,CLINIC,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1277,Kambia,Republic of Sierra Leone Military Clinic,Republic of Sierra Leone Military Clinic,Republic of Sierra Leone Military,CLINIC,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1323,Kailahun,Kailahun,Government Hospital,Government,HOSPITAL,Government,Functional,8.276598,-10.56662,DPPI,GPS,No Data,2016,
+1365,Kailahun,Talia,Talia CHP,Talia,CHP,Government,Functional,8.204366,-10.53326,DPPI,GPS,No Data,2016,
+1366,Kailahun,Moa Barracks,Daru Field Hospital,Daru Field,HOSPITAL,Government,Functional,7.99093,-10.85449,DPPI,GPS,No Data,2021,
+1368,Kailahun,Mamabu,Mamabu CHP,Mamabu,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1369,Kailahun,Wei,Wei CHP,Wei,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1370,Kailahun,Macca,Macca CHP,Macca,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1407,Falaba,Kulia,Kulia CHP,Kulia,CHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1412,Falaba,Diang Kamaron,Diang Kamaron CHP,Diang Kamaron,CHP,Government,Functional,9.344914,-10.869808,WHO,GPS,No Data,2019,
+1414,Falaba,Kulankoh,Kulankoh MCHP,Kulankoh,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1415,Falaba,Bandakoro,Bandakoro MCHP,Bandakoro,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1417,Falaba,Bamboria,Bamboria MCHP,Bamboria,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1418,Falaba,Kalaia,Kalaia MCHP,Kalaia,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1419,Falaba,Seremudu,Seremudu CHP,Seremudu,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1420,Falaba,Largoh,Largoh MCHP,Largoh,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1421,Falaba,Mansonia,Mansonia MCHP,Mansonia,MCHP,Government,Functional,,,DPPI,,No Data,0,no lat/long
+1435,Bonthe,Moyowa,Moyowa Hospital,Moyowa,HOSPITAL,Private,Functional,7.646191,-12.100516,DPPI,GPS,No Data,2021,
+1453,Bonthe,Ngaringa,Ngaringa MCHP,Ngaringa,MCHP,Government,Non-Functional,7.375586,-12.263002,DPPI,Village Center,No Data,2021,
+1498,Bonthe,Yooh,Yooh MCHP,Yooh,MCHP,Government,Non-Functional,7.590981,-12.851561,DPPI,Village Center,No Data,2021,
+1503,Bonthe,Subu,Subu MCHP,Subu,MCHP,Government,Functional,7.291866,-12.142481,DPPI,Village Center,No Data,2021,
+1507,Bonthe,Karlleh,Karlleh MCHP,Karlleh,MCHP,Government,Non-Functional,7.418824,-11.907403,DPPI,GPS,No Data,2021,
+1511,Bonthe,Yawbeko,Tuakan CHP,Tuakan,CHP,Government,Non-Functional,,,DPPI,,No Data,0,no lat/long
+1512,Bonthe,Kpanda Kemoh,Motami CHP,Motami,CHP,Government,Non-Functional,,,DPPI,,No Data,0,no lat/long
+1513,Bonthe,Rutile,Rutile Hospital,Rutile,HOSPITAL,Private,Functional,,,DPPI,,No Data,0,no lat/long
+1569,Bombali,Kakorla,Kakorla MCHP,Kakorla,MCHP,Government,Non-Functional,9.132659,-12.008716,DPPI,Village Center,No Data,2021,
+1595,Bombali,Makassa,Makassa MCHP,Makassa,MCHP,Government,Non-Functional,9.348103,-12.21337,DPPI,GPS,No Data,2021,
+1603,Bombali,Rosint,Rosint MCHP,Rosint,MCHP,Government,Non-Functional,9.280197,-12.172231,DPPI,GPS,No Data,2021,
+1604,Bombali,Masuba Community,Holy Spirit Hospital,Holy Spirit,HOSPITAL,Faith Based,Functional,8.816647,-12.083689,DPPI,Village Center,No Data,2021,
+1608,Bombali,Mabanta Road,SLRCS CHP,SLRCS,CHP,Government,Functional,8.881085,-12.044828,DPPI,GPS,No Data,2021,
+1609,Bombali,Manjaka,Manjaka MCHP,Manjaka,MCHP,Government,Non-Functional,9.229305851,-12.002051409,DPPI,GPS,No Data,2023,no lat/long
+1610,Bombali,Timbo,Special Care Clinic,Special Care,CLINIC,Private,Functional,8.899330332,-12.034202345,DPPI,Digitized,No Data,2021,Requires Validation/Ground truthing
+1612,Bombali,Mabanta Road,Modern Clinic,Modern,CLINIC,Private,Functional,8.8881475,-12.045392307,DPPI,Digitized,No Data,2021,Requires Validation/Ground truthing
+1613,Tonkolili,Ninkikoro,Ninkikoro MCHP,Ninkikoro,MCHP,Government,Functional,8.991273,-11.639375,DPPI,GPS,kSlAzC2rmUu,2016,
+1614,Western Area Rural,Camp Junction,Rick-Fresh Clinic,Rick-Fresh,CLINIC,Private,Functional,,,DPPI,,No Data,0,no lat/long
+1615,Western Area Rural,Waterloo,Waterloo CEmONC- Hospital,Waterloo CEmONC-,HOSPITAL,Government,Functional,8.3351159,-13.0737895,DPPI,,No Data,2023,no lat/long
